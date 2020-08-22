@@ -1,1 +1,1 @@
-# dropzone
+## Laravel - Dropzone JS
